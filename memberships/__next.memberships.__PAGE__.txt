@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/1cv93zhdqbm9u.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-[1360px] px-(--spacing-gutter) py-(--spacing-band)","children":[["$","p",null,{"className":"eyebrow","children":"Scratch Indoor Golf & Academy"}],["$","h1",null,{"className":"mt-4 text-[clamp(42px,6.6vw,88px)] leading-[0.94]","children":"Memberships"}],["$","p",null,{"className":"mt-5 max-w-[52ch] text-[18px] body-muted","children":"This page is scaffolded and routed. Content build follows the guideline’s page-by-page requirements."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5PSORTesKAXp6j5JiAUtC"}
+4:null
