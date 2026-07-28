@@ -1,12 +1,10 @@
-# Scratch Indoor Golf & Academy — preview build
+# Retired
 
-Generated output only. This repository contains the compiled static site,
-not the application source.
+This repository previously hosted a static preview build of the Scratch
+Indoor Golf & Academy site. That preview is out of date and has been retired.
 
-- **Preview:** https://scratchiga.github.io
-- **Live site:** https://www.scratchindoorgolf.ca (unaffected by this)
+The site is now built and deployed from `ScratchIGA/scratch-web` via Vercel.
 
-Not for indexing: every page carries `noindex`, and `robots.txt` disallows
-crawling, so this preview cannot compete with the live site in search.
-
-Booking links are placeholders until the USchedule URLs are issued.
+GitHub Pages cannot be disabled for a `<user>.github.io` repository while the
+repository exists, so this holds a redirect rather than stale content. Delete
+this repository to remove the URL entirely.

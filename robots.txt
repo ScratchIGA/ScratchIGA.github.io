@@ -1,5 +1,2 @@
-# Preview build. Not the live site.
-# Booking links are placeholders and the content duplicates
-# www.scratchindoorgolf.ca, so this must not be indexed.
 User-agent: *
 Disallow: /
